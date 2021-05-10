@@ -10,4 +10,4 @@ dependencies:
   - numpy
   - brightway2
   - lxml
-  - python=3.6
+  - python=3.8
