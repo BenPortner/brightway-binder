@@ -9,4 +9,5 @@ channels:
 dependencies:
   - numpy
   - brightway2
+  - lxml
   - python=3.6
